@@ -1,6 +1,8 @@
 # Battleships
 Model of the Battleship Game
 
-Domain Model and Interactions:
+## Domain Model and Interactions:
 
-Classes are ship and grid and location
+Classes are Ship, Board
+Interactions: ship is placed on board (location can be an argument on the method)
+
